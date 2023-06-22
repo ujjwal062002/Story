@@ -1,4 +1,4 @@
-print("hello   world")
+print(" world")
 python aat
 presentation
 present
